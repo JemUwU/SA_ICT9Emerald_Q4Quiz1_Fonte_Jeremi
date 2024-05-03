@@ -1,0 +1,6 @@
+body {
+	background-repeat: no-repeat;
+	background-image: url('BG.gif');
+	background-size: cover;
+	background-attachment: fixed;
+}

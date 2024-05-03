@@ -1,0 +1,42 @@
+#PS {
+	border: thin;
+	border-width: 100;
+	text-align: center;
+	background-color: floralwhite;
+	font-size: 50px;
+}
+#PP {
+	border: thin;
+	border-width: 50;
+	text-align: center;
+	background-color: floralwhite;
+	font-size: 30px;
+	width: 30%;
+	display: inline-block;
+}
+#PD{
+	border: solid;
+	text-align: center;
+	width: 30%;
+	border-width: medium;
+	margin-top: 40px;
+	border-width: thick;
+	margin-left: auto;
+	margin-right: auto;
+}
+#my {
+	zoom: 50%;
+}
+p {
+	font: italic;
+}
+h2 {
+	font: serif;
+	font: italic;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url('SB.gif');
+	background-size: cover;
+	background-attachment: fixed;
+}
